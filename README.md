@@ -23,5 +23,5 @@ seaborn 0.13
 Other versions are likely to work but these are just what I used
 
 
-1. Download the dataset from [Here](https://drive.google.com/file/d/18y3NSijQwISNWvKji2s-9odgW2ws3kPr/view?usp=drive_link)
+1. Download the dataset from [Here](https://drive.google.com/file/d/18y3NSijQwISNWvKji2s-9odgW2ws3kPr/view?usp=drive_link) ~4GB
 2. Pick one of the two notebook files run them with the dataset in the same folder.
