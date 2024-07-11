@@ -1,0 +1,1 @@
+This project is me investigating the differences when trianing a CNN to predict activities of patients using WiFi CSI when both using the full complex number data avalible and only the real component.
