@@ -14,12 +14,13 @@ I undertook this task during my capstone project at deakin univercity. It seemed
 
 ## Replication
 #### Used Libraries and Versions:
-Python 3.12
-Tensorflow 2.x
-sklearn 1.5
-pandas 2.x
-matplotlib 3.9
-seaborn 0.13
+* Python 3.12
+* Tensorflow 2.x
+* sklearn 1.5
+* pandas 2.x
+* matplotlib 3.9
+* seaborn 0.13
+
 Other versions are likely to work but these are just what I used
 
 
